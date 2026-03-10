@@ -13,4 +13,4 @@ Welcome to the **Tic Tac Toe** project! This repository contains a simple yet en
 1. The game is played on a 3x3 grid.
 2. Players take turns to place their marks (X or O) in an empty cell.
 3. The first player to align three of their marks horizontally, vertically, or diagonally wins the game.
-4. If all cells are filled and no player has three marks in a row, the game ends in a draw..
+4. If all cells are filled and no player has three marks in a row, the game ends in a draw.
